@@ -1,4 +1,4 @@
-## Oiee!!! Eu sou Samuca
+## Olá!!! Eu sou Samuca
 
 - 👨‍🎓 Estudante de Gestão da Tecnologia da Informação
 - ✍ Estudando Python e Cibersegurança🔒
